@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /my_first_directory
+mkdir tmp touch tmp/betty mv /tmp/betty /my_first_directory
