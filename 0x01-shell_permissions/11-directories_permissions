@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 715 file
+chmod ugo=+x file
